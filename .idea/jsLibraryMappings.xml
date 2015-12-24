@@ -3,5 +3,6 @@
   <component name="JavaScriptLibraryMappings">
     <file url="file://$PROJECT_DIR$" libraries="{backbone-test node_modules}" />
     <file url="file://$PROJECT_DIR$/index.js" libraries="{backbone-DefinitelyTyped}" />
+    <includedPredefinedLibrary name="ECMAScript 6" />
   </component>
 </project>
